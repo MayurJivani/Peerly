@@ -7,6 +7,8 @@
 [![Stars](https://img.shields.io/github/stars/MayurJivani/Peerly?style=flat-square)](https://github.com/MayurJivani/Peerly/stargazers)
 [![Issues](https://img.shields.io/github/issues/MayurJivani/Peerly?style=flat-square)](https://github.com/MayurJivani/Peerly/issues)
 ![Code size](https://img.shields.io/github/languages/code-size/MayurJivani/Peerly?style=flat-square)
+![servers in the middle](https://img.shields.io/badge/servers%20in%20the%20middle-none-2ecc71?style=flat-square)
+![file size limit](https://img.shields.io/badge/file%20size%20limit-your%20patience-f39c12?style=flat-square)
 
 Peer-to-peer file transfer in the browser. One person shares an id, the other
 types it, and the file goes straight between the two tabs over WebRTC. No
